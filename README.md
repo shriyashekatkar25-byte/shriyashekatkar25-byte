@@ -18,8 +18,8 @@ Start here:
 **→ [Studio archive](https://github.com/shriyashekatkar25-byte/shriya-exe)** · [paithani-loom](https://github.com/shriyashekatkar25-byte/paithani-loom) · [katta-lab](https://github.com/shriyashekatkar25-byte/katta-lab) · [khidki-2004](https://github.com/shriyashekatkar25-byte/khidki-2004)
 
 ### 📚 Study guides
-Stats 102C: [roll-the-dice-math](https://github.com/shriyashekatkar25-byte/roll-the-dice-math) · [say-cheese-monte-carlo](https://github.com/shriyashekatkar25-byte/say-cheese-monte-carlo) · [posterior-photobooth](https://github.com/shriyashekatkar25-byte/posterior-photobooth) · [darts-and-tents](https://github.com/shriyashekatkar25-byte/darts-and-tents) · [weighty-pins](https://github.com/shriyashekatkar25-byte/weighty-pins)
-Stats 100B: [bootstrap-bootcamp](https://github.com/shriyashekatkar25-byte/bootstrap-bootcamp)
+- **Stats 102C:** [roll-the-dice-math](https://github.com/shriyashekatkar25-byte/roll-the-dice-math) · [say-cheese-monte-carlo](https://github.com/shriyashekatkar25-byte/say-cheese-monte-carlo) · [posterior-photobooth](https://github.com/shriyashekatkar25-byte/posterior-photobooth) · [darts-and-tents](https://github.com/shriyashekatkar25-byte/darts-and-tents) · [weighty-pins](https://github.com/shriyashekatkar25-byte/weighty-pins)
+- **Stats 100B:** [bootstrap-bootcamp](https://github.com/shriyashekatkar25-byte/bootstrap-bootcamp)
 
 ---
 <sub>APM Lab projects are unofficial concept prototypes with simulated data, not affiliated with any company.</sub>
